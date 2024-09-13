@@ -81,7 +81,7 @@ Numpy
 * Clone the repository
 
 ```
-$ git clone https://github.com/Shailasrii/Startup-Company-Machine-Learning.git
+$ git clone https://github.com/Shailasrii/
 ```
 * Setup Virtual Environment
 
@@ -107,5 +107,5 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
-The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
+If you have any doubt or want to contribute feel free to hit me up on (shailasric@gmail.com)
+
